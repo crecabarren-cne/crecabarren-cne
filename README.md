@@ -1,1 +1,2 @@
-# crecabarren-cne
+# Cristian Recabarren
+###### Ingeniero de Software
